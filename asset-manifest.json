@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solaris-dashboard/static/css/main.4aec1a65.css",
+    "main.js": "/solaris-dashboard/static/js/main.fd97df0e.js",
+    "static/js/453.26fdfeda.chunk.js": "/solaris-dashboard/static/js/453.26fdfeda.chunk.js",
+    "index.html": "/solaris-dashboard/index.html",
+    "main.4aec1a65.css.map": "/solaris-dashboard/static/css/main.4aec1a65.css.map",
+    "main.fd97df0e.js.map": "/solaris-dashboard/static/js/main.fd97df0e.js.map",
+    "453.26fdfeda.chunk.js.map": "/solaris-dashboard/static/js/453.26fdfeda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aec1a65.css",
+    "static/js/main.fd97df0e.js"
+  ]
+}
